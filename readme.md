@@ -126,25 +126,21 @@ Customer-Segmentation/
 
 # 📊 Visualizations
 
-## 👥 Customer Segments
-
-![Customer Segments](customer_segmentation.png)
-
+## 👥 Customer Segment
+<img width="800" height="600" alt="customer_segmentation" src="https://github.com/user-attachments/assets/417ac0f6-122e-4257-9163-f4b60f9abc6a" />
 
 ## 💰 Income vs Spending Score
+<img width="800" height="500" alt="income_distribution" src="https://github.com/user-attachments/assets/d41fec2a-6c20-4bd0-99c9-d87b57f44e48" />
 
-![Income vs Spending](income_distribution.png)
 
 
 ## 🎂 Age Distribution
-
-![Age Distribution](age_distribution.png)
-
----
+<img width="800" height="500" alt="age_distribution" src="https://github.com/user-attachments/assets/98a6f58a-d2d9-4ee4-99b4-e7a0db69e835" />---
 
 ## ⭐ Spending Score Distribution
 
-![Spending Distribution](spending_distribution.png)
+<img width="800" height="500" alt="spending_distribution" src="https://github.com/user-attachments/assets/2ffad2e4-dd6e-4a06-a29f-3f8273474429" />
+
 
 ---
 
