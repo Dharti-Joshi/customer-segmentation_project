@@ -126,8 +126,8 @@ Customer-Segmentation/
 
 # 📊 Visualizations
 
-## 👥 Customer Segment
-![customer_segmenation](customer_segmentation.png)
+## 👥 Customer Segmentnation
+![image](image/customer_segmenation.png)
 
 ## 💰 Income vs Spending Score
 <img width="800" height="500" alt="income_distribution" src="https://github.com/user-attachments/assets/d41fec2a-6c20-4bd0-99c9-d87b57f44e48" />
