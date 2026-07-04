@@ -7,7 +7,6 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-ff4b4b)
 ![Status](https://img.shields.io/badge/Project-Completed-success)
 
----
 
 # 📌 Project Overview
 
@@ -39,9 +38,7 @@ K-Means Clustering
         ↓
 Customer Segmentation
         ↓
-Business Insights
-
----
+Business Insights-
 
 # 🛠️ Technologies Used
 
@@ -52,8 +49,6 @@ Business Insights
 * Matplotlib
 * Streamlit
 * Jupyter Notebook
-
----
 
 # 📂 Project Structure
 Customer-Segmentation/
@@ -70,9 +65,6 @@ Customer-Segmentation/
 ├── age_distribution.png
 └── spending_distribution.png
 ```
-
----
-
 # 📊 Dataset Features
 
 | Column            |
@@ -87,20 +79,18 @@ Customer-Segmentation/
 | Cluster           |
 | CustomerSegment   |
 
----
-
 # 🤖 Machine Learning Algorithm
 
-**Algorithm Used**
+Algorithm Used
 
-* K-Means Clustering
+-  K-Means Clustering
 
-**Features Used**
+Features Used
 
-* Annual Income
-* Spending Score
-* Purchase Frequency
-* Total Spent
+- Annual Income
+- Spending Score
+- Purchase Frequency
+-  Total Spent
 
 # 📈 Model Evaluation
 
@@ -110,41 +100,37 @@ Customer-Segmentation/
 
 # 📊 Dashboard Features
 
-* 👥 Total Customers
-* 💰 Total Sales
-* 💵 Average Annual Income
-* ⭐ Average Spending Score
-* 🛒 Average Purchase Frequency
-* 🎂 Average Age
-* 📈 Customer Segment Count
-* 📊 Income vs Spending Scatter Plot
-* 📉 Age Distribution
-* 📦 Spending Score Distribution
-* 📥 Download Segmented Dataset
+- 👥 Total Customers
+- 💰 Total Sales
+- 💵 Average Annual Income
+- ⭐ Average Spending Score
+- 🛒 Average Purchase Frequency
+- 🎂 Average Age
+- 📈 Customer Segment Count
+- 📊 Income vs Spending Scatter Plot
+- 📉 Age Distribution
+- 📦 Spending Score Distribution
+- 📥 Download Segmented Dataset
 
----
+📊 Visualizations
 
-# 📊 Visualizations
+ 💡 Business Insights
 
-# 💡 Business Insights
+- High-income customers do not always have high spending scores.
+- Loyal customers can be identified through purchase frequency.
+-  Customer segmentation helps improve targeted marketing.
+- Different customer groups require different business strategies.
+- Data-driven segmentation improves customer retention.
 
-* High-income customers do not always have high spending scores.
-* Loyal customers can be identified through purchase frequency.
-* Customer segmentation helps improve targeted marketing.
-* Different customer groups require different business strategies.
-* Data-driven segmentation improves customer retention.
+ ▶️ How to Run
 
----
-
-# ▶️ How to Run
-
-### Install Required Libraries
+ Install Required Libraries
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### Run Jupyter Notebook
+# Run Jupyter Notebook
 
 ```bash
 jupyter notebook
@@ -154,15 +140,13 @@ Open:
 
 ```text
 customer_segmentation.ipynb
-```
-
-### Run Streamlit Dashboard
+``
+# Run Streamlit Dashboard
 
 ```bash
 python -m streamlit run dashboard.py
 ```
-
-# 📦 Requirements
+ 📦 Requirements
 
 ```text
 pandas
@@ -172,41 +156,32 @@ matplotlib
 streamlit
 jupyter
 ```
+ 📸 Project Output
 
----
-
-# 📸 Project Output
-
-* Customer Segmentation using Machine Learning
-* Interactive Streamlit Dashboard
-* Cluster Visualization
-* Income vs Spending Analysis
-* Customer Insights
-* Downloadable Segmented Dataset
-
----
+- Customer Segmentation using Machine Learning
+- Interactive Streamlit Dashboard
+- Cluster Visualization
+- Income vs Spending Analysis
+- Customer Insights
+- Downloadable Segmented Dataset
 
 # 🎓 Learning Outcomes
 
-* Data Cleaning
-* Exploratory Data Analysis (EDA)
-* Feature Engineering
-* K-Means Clustering
-* Machine Learning
-* Streamlit Dashboard Development
-* Business Analytics
-
----
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- K-Means Clustering
+-  Machine Learning
+- Streamlit Dashboard Development
+- Business Analytics
 
 # 🚀 Future Improvements
 
-* Add DBSCAN & Hierarchical Clustering
-* Deploy on Streamlit Cloud
-* Interactive Plotly Visualizations
-* Customer Lifetime Value Prediction
-* Recommendation System
-
----
+- Add DBSCAN & Hierarchical Clustering
+- Deploy on Streamlit Cloud
+- Interactive Plotly Visualizations
+- Customer Lifetime Value Prediction
+- Recommendation System
 
 # 👩‍💻 Author
 
